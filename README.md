@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laveezah Noor</h1>
 <h3 align="center">A passionate software engineer from Pakistan.</h3>
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laveezah-noor&label=Profile%20views&color=0e75b6&style=flat" alt="laveezah-noor" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laveezah-noor" alt="laveezah-noor" /></a> </p>
-
+--->
 - 🔭 I’m currently learning about **DevOps and Cloud Services.**
 
 - 🌱 I’m currently learning **Kubernetes**
